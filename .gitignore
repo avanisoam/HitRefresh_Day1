@@ -1,0 +1,5 @@
+dotnet 5/WebApplication3/bin/*
+dotnet 5/WebApplication3/obj/*
+dotnet 5/.vs/WebApplication3/v16/*
+dotnet 5/.vs/WebApplication3/DesignTimeBuild/*
+dotnet 5/WebApplication3/WebApplication3.csproj.user
