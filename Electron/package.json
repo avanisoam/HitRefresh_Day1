@@ -1,0 +1,19 @@
+{
+  "name": "hitrefresh_day1",
+  "version": "1.0.0",
+  "description": "Hello World Application in Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avanisoam/HitRefresh_Day1.git"
+  },
+  "author": "Avani Soam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avanisoam/HitRefresh_Day1/issues"
+  },
+  "homepage": "https://github.com/avanisoam/HitRefresh_Day1#readme"
+}
