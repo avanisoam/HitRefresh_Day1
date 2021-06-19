@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+        <script>
+            $("#document").ready(function(){
+                $("#btn1").click(function(){
+                    $("#p1").text("Hello World");
+                });
+
+                $("#btn2").click(function(){
+                    $("#p2").text("This awoesome");
+                });
+
+                $("#btn3").click(function(){
+                    $("#text3").val("Vedant Soam");
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <p id="p1">This is first paragraph</p>
+        <p id="p2">This is second paragraph.</p>
+        <p>name:
+            <input type="text" id="text3" value="Avani Soam">
+        </p>
+
+        <button id="btn1">B1</button>
+        <button id="btn2">B2</button>
+        <button id="btn3">B3</button>
+    </body>
+</html>

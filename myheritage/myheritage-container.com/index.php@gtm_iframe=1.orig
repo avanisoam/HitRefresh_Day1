@@ -1,0 +1,8 @@
+<script type="text/javascript" >
+var GTM_ACCOUNT_ID = 'GTM-J44C';
+var gtmDataLayer = [{"user_type":"guest","pageViewURL":"\/company\/index.php","canonical-page-id":"\/company\/home\/","pageDomainName":"","ftb_version":"none","ip_country":"IN","ip_state_or_province":"HR","should_load_extended_gtm_container":"true","device":"desktop","existing_subscription_types":"N\/A","current_subscriptions":"guest","in_free_trial":"not-in-free-trial","connection_protocol_type":"https"}];
+</script>
+        <script type="text/javascript" >
+            var ASSET_DOMAIN_ALIAS_GENERAL = 'd.mhcache.com';
+        </script>
+        <script src="https://d.mhcache.com/FP/Assets/Cache/output/GtmIframeLoaderBundled_v1MV065a8854e40490fdc5111d0f548e120f.js" type="text/javascript"  crossorigin="anonymous"></script>
