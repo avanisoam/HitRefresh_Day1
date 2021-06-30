@@ -188,7 +188,7 @@
             var isDocking = "";
          </script>
       </div>
-      <script
+      <!--script
          src="../d.mhcache.com/FP/Assets/Cache/output/globalVendorsLibrary.min_v1MV22a912a3211a46a20318d5353a81e9f8.js"
          type="text/javascript" crossorigin="anonymous"></script>
       <script src="../d.mhcache.com/FP/Assets/Cache/output/axiosLibrary.min_v1MVf8e459d260385766f73d4e55c7222ca3.js"
@@ -347,14 +347,14 @@
          };
          
          var coreFreeTrialData = { "ppcPopupUrl": "javascript: openSignupPopup(languageCode, { startWith:'miniSignup', flavor:'miniSignup', signupReason: 'ftfc homepage', showLoginInMiniSignup: 1, signupTitle: 'Start your free 14-day trial', onCloseByCancel: function() {\n                    if (false) {\n                        window.features.exposureService.logExperimentActivity('Site.PPC.SuperSearch.Funnel.Experiment', 'user_close_signup_form');\n                    }\n                } });", "signupMobileTitle": "Start your free trial", "goButtonTitle": "Continue", "signupReason": "ftfc homepage", "isFreeTrialExposed": true, "ppcCheckoutUrl": "https:\/\/www.myheritage.com\/search-records?action=free-trial-checkout&context=CompanyHomeFreeTrialComplete.Banner" };
-      </script>
+      </script-->
       <script>
          var USER_EXCEEDED_LOGIN_LIMIT = 104;
          var ACCOUNT_MFA_MISSING_CODE = 15;
          var ACCOUNT_MFA_WRONG_CODE = 16;
          var ACCOUNT_PASSWORD_EXPIRED = 106;
       </script>
-      <script src="../d.mhcache.com/FP/Assets/Cache/output/CompanyHomeBundled_v1MVec7e48adf64d2322bd801a6384a79217.js"
+      <!--script src="../d.mhcache.com/FP/Assets/Cache/output/CompanyHomeBundled_v1MVec7e48adf64d2322bd801a6384a79217.js"
          type="text/javascript" crossorigin="anonymous"></script>
       <script src="../d.mhcache.com/FP/Assets/Cache/HTML5/modernizr_v1MVef520899a56d3170b6f59d6ecbc67941.js"
          type="text/javascript" crossorigin="anonymous"></script>
@@ -382,5 +382,5 @@
       <iframe id="gtm_iframe" src="../myheritage-container.com/index.php@gtm_iframe=1.html"></iframe>
       <script
          src="../d.mhcache.com/FP/Assets/Cache/output/ServiceWorkerBootstrapperBundled_v1MV1cdd43966e4bc9b4a3642f4bc7048b09.js"
-         type="text/javascript" nonce="805f13fb74e7e1f3e450ba591c1eb02b" defer></script>
+         type="text/javascript" nonce="805f13fb74e7e1f3e450ba591c1eb02b" defer></script-->
    </body>
